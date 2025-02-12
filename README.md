@@ -1,4 +1,4 @@
-Virtual Piano with Hand Tracking 🎹
+## **Virtual Piano with Hand Tracking 🎹**
 
 This is a Virtual Piano that uses computer vision to detect hand movements and play notes. You can play freely or choose a song to follow.
 
